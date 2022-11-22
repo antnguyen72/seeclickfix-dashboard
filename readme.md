@@ -43,7 +43,7 @@ In this project, I used the ETL method to extract daily data from Seelickfix api
  - Dashboard:
     + Create vertical bar chart, pie chart, and geo location map with Kibana
 
-### Problems, solutions, and lessons
+### Problems, solutions, and lessons:
 
 There were problems at every step of this project. Originally, this project is presented to by a book I am reading (Data Engineering with Python by Paul Crickard). The author suggested the use of Apache Nifi for pipeline orchestration. However, I liked coding more than the Nifi GUI, so I decided to freestyle the project, trying to achieve the same goal but with Apache Airflow.
 
@@ -61,17 +61,17 @@ There were problems at every step of this project. Originally, this project is p
 
   - Kibana: kibana and elastic are the same beast...both hard to set up. But once I got it working, it is a very powerful tool. Lesson learned: normalizing data with dashboard end-result in mind. Once I got to making the dashboard, I had to rewrite all the codes so that the end result could be prettier. I learned to geohash coordinates with pyohash. The geohash data can be displayed on a map offered by kibana
 
-### Dashboard screenshots
+### Dashboard screenshots:
 
 ![pic](./Relevant%20Screenshots/normalcharts_kibana.png "piechart + barchart")
 ![pic](./Relevant%20Screenshots/geolocationmap_kibana.png "geomap")
 
-### Docker setup
+### Docker setup:
 
 ![pic](./Relevant%20Screenshots/elastic%2Bkibana_docker.png)
 ![pic](./Relevant%20Screenshots/pgadmin%2Bairflow_docker.png)
 
-### Comments and final remarks
+### Comments and final remarks:
 
 I learned so so so much from this process. Though the end result is not pretty. I now have a dashboard that updates daily about the civil complains from my area. However, the SeeClickFix API is not very active in my area so there's no new entry point everyday...I learned so much about everything and am more confident going into my next project
 
