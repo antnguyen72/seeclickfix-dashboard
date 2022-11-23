@@ -1,15 +1,15 @@
 # SeeClickFix API data updated daily for real-time dashboard
 
 ### Languages used:
+Python, SQL <br />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Python, SQL
 
 ### Other tools used:
+Apache Airflow, Elasticsearch + Kibana, Postgresql + PGAdmin4, Linux + Docker <br />
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-Apache Airflow, Elasticsearch + Kibana, Postgresql + PGAdmin4, Linux + Docker
 
 ### Setup:
 For my setup, I installed linux on two mini PC's and used a rasberrypie(I had to go and get another pc because elasticsearch takes up alot of computing power)
