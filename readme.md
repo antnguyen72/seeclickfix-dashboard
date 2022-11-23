@@ -3,6 +3,7 @@
 ### Languages used:
 Python, SQL <br />
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Other tools used:
 Apache Airflow, Elasticsearch + Kibana, Postgresql + PGAdmin4, Linux + Docker <br />
@@ -12,7 +13,7 @@ Apache Airflow, Elasticsearch + Kibana, Postgresql + PGAdmin4, Linux + Docker <b
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Setup:
-For my setup, I installed linux on two mini PC's and used a rasberrypie(I had to go and get another pc because elasticsearch takes up alot of computing power)
+For my setup, I installed linux on two mini PC's and used a RasberryPi(I had to go and get another pc because elasticsearch takes up alot of computing power)
 
  - PC1: intel i7 6 cores, 8Gb RAM:
     Dockerized Apache Airflow and PGAdmin4
